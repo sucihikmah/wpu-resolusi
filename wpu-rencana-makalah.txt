@@ -2,8 +2,11 @@ RENCANA MAKALAH SUCI
 BAB I
 Pendahuluan
 *latar belakang
+> pengertian komputer
+>asal usul komputer
 *rumusan masalah
 *manfaat
 BAB II
 Pembahasan
 *perangkat keras(Hardware)
+*komponen perangkat keras
