@@ -9,3 +9,4 @@ Pendahuluan
 BAB II
 Pembahasan
 *perangkat keras(Hardware)
+*pengertian hardware
