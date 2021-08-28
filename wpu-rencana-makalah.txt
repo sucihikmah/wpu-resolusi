@@ -2,11 +2,9 @@ RENCANA MAKALAH SUCI
 BAB I
 Pendahuluan
 *latar belakang
->pengertian khusus
->pengertian umum
+
 *rumusan masalah
 *manfaat
 BAB II
 Pembahasan
 *perangkat keras(Hardware)
-*pengertian hardware
