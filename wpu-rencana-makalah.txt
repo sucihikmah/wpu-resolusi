@@ -3,6 +3,7 @@ BAB I
 Pendahuluan
 *latar belakang
 > pengertian komputer
+>asal usul komputer
 *rumusan masalah
 *manfaat
 BAB II
